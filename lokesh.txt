@@ -1,4 +1,3 @@
 Welcome to jenkins and sonarqube and docker file done all
-
-
+all done check it onces
 
